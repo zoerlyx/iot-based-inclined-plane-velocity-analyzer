@@ -1,11 +1,10 @@
-# Physics IoT: Inclined Plane Experiment
+# Physics IoT: Inclined Plane Measurement System
 
-An IoT-based physics experiment system designed to measure and analyze motion and friction on an inclined plane using Arduino, ESP, ultrasonic sensors, and load cell technology.
+An IoT-based measurement system designed to measure and analyze motion, acceleration, and friction on an inclined plane using Arduino, ESP, ultrasonic sensors, and load cell technology.
 
 ## 📌 Overview
 
-This project combines physics experiments with Internet of Things (IoT) technology to measure physical quantities in an inclined-plane experiment.
-
+This system combines inclined-plane mechanics with Internet of Things (IoT) technology to deliver precise, real-time measurements of physical quantities for professional and educational instrumentation.
 The system is designed to calculate:
 
 * Velocity
@@ -129,7 +128,7 @@ This project aims to demonstrate the integration of:
 
 > Physics + Embedded Systems + IoT + Sensor Data
 
-The project is developed as an experimental system for applying physics concepts to a real-world sensor-based measurement system.
+The system is developed as a reliable sensor-based solution for real-world physics measurement and telemetry application.
 
 ## 👥 Contributors
 
@@ -137,4 +136,4 @@ The project is developed as an experimental system for applying physics concepts
 
 ## 📄 License
 
-This project is developed for educational and experimental purposes.
+Proprietary / Developed for Client Project.
