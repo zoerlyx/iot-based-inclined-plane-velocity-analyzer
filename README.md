@@ -47,8 +47,8 @@ The project may use the following hardware components:
 
 ```text
 .
-├── kecepatan-bidang-miring/
-│   └── kecepatan-bidang-miring.ino
+├── src/
+│   └── KecepatanBidangMiring1.ino
 │
 ├── libraries/
 │   ├── HX711/
@@ -84,6 +84,8 @@ Open the `.ino` file located in:
 
 ```text
 cd iot-based-inclined-plane-velocity-analyzer/
+
+cd src
 ```
 
 using the Arduino IDE.
